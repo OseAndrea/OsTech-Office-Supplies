@@ -35,4 +35,4 @@ I inspected the data set and found it free of errors. However, I formatted the d
 
 ![Ostech Recommendations](https://github.com/OseAndrea/OsTech-Office-Supplies/assets/130297747/7e5808b6-1873-4eb9-96af-9319b0023d14)
 
-You can interact with this report [here]([Sample Data for Office Supplies.xlsx](https://github.com/OseAndrea/OsTech-Office-Supplies/files/12293381/Sample.Data.for.Office.Supplies.xlsx))
+You can interact with this report ([here](https://github.com/OseAndrea/OsTech-Office-Supplies/files/12293381/Sample.Data.for.Office.Supplies.xlsx))
